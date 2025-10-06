@@ -1,6 +1,6 @@
 // IMPORTANT: In a local environment, your backend is at http://localhost:3000
 // When you deploy, you will change this to your live Render URL.
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://todo-gaurav-app.onrender.com';
 
 const taskInput = document.getElementById('task-input');
 const addTaskBtn = document.getElementById('add-task-btn');
